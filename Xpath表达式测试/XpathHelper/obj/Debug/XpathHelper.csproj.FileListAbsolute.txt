@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\bin\Debug\XpathHelper.dll
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\bin\Debug\XpathHelper.pdb
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\obj\Debug\XpathHelper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\obj\Debug\XpathHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\obj\Debug\XpathHelper.dll
+C:\Users\Administrator\Desktop\XpathWpf-master\XpathHelper\obj\Debug\XpathHelper.pdb
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\bin\Debug\XpathHelper.dll
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\bin\Debug\XpathHelper.pdb
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\obj\Debug\XpathHelper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\obj\Debug\XpathHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\obj\Debug\XpathHelper.dll
+C:\Users\Administrator\Desktop\XpathWpf\XpathHelper\obj\Debug\XpathHelper.pdb

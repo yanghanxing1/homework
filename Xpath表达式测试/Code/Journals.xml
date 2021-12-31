@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<journals>
+  <journal id="345">
+    <name>Computational Mathematics and Modeling</name>
+    <volumes>
+      <volume number="1">
+        <articles>
+          <article>
+            <title>Universal theory of dynamical chaos in nonlinear dissipative systems of differential equations</title>
+            <published>2010-06-15</published>
+            <price>19.00</price>
+          </article>
+          <article>
+            <title>Localization of invariant compacta of autonomous systems</title>
+            <published>2009-12-30</published>
+            <price>12.50</price>
+          </article>
+        </articles>
+      </volume>
+      <volume number="3">
+        <articles>
+          <article>
+            <title>An equilibrium model of resource scarcity</title>
+            <published>2008-07-01</published>
+            <price>5.00</price>
+          </article>
+          <article>
+            <title>With uncertainly by choice of zero dynamics</title>
+            <published>2008-07-31</published>
+            <price>13.90</price>
+          </article>
+        </articles>
+      </volume>
+    </volumes>
+  </journal>
+  <journal id="65">
+    <name>Cluster Computing</name>
+    <volumes>
+      <volume number="2">
+        <articles>
+          <article>
+            <title>Energy efficient scheduling for parallel applications on mobile clusters</title>
+            <published>2007-11-08</published>
+            <price>40.00</price>
+          </article>
+        </articles>
+      </volume>
+    </volumes>
+  </journal>
+  <journal id="67">
+    <name>Computing</name>
+    <volumes>
+      <volume number="4">
+        <articles>
+          <article>
+            <title>Locking the sky: a survey on IaaS cloud security</title>
+            <published>2010-11-24</published>
+            <price>32.80</price>
+          </article>
+        </articles>
+      </volume>
+      <volume number="5">
+        <articles>
+          <article>
+            <title>A new method for solving fuzzy linear differential equations</title>
+            <published>2006-11-13</published>
+            <price>54.50</price>
+          </article>
+          <article>
+            <title>Transfer function modelling in software reliability</title>
+            <published>2006-11-13</published>
+            <price>0</price>
+          </article>
+        </articles>
+      </volume>
+    </volumes>
+  </journal>
+</journals>
+

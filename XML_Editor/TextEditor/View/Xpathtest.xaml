@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="TextEditor.Xpathtest"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prop="clr-namespace:TextEditor.Properties">
+  
+    
+    <Grid Margin="0,4,0,8">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="58*" />
+            <ColumnDefinition Width="151*" />
+            <ColumnDefinition Width="766*" />
+        </Grid.ColumnDefinitions>
+
+
+        <TextBox Height="235" HorizontalAlignment="Left" Margin="12,78,0,0" Name="txtxml" VerticalAlignment="Top" Width="550" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" Text="" FontSize="14" Grid.ColumnSpan="3">
+
+        </TextBox>
+        <TextBox Height="33" Margin="12,39,13,0" Name="txtqueryxpath" VerticalAlignment="Top" Foreground="Black" FontWeight="Bold" FontFamily="Verdana" FontSize="16" Text="" Grid.ColumnSpan="3">
+
+        </TextBox>
+        <TextBox Height="122" HorizontalAlignment="Left" Margin="12,476,0,0" Name="txtresultxpath" TextWrapping="Wrap" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" Width="550" FontSize="14" Grid.ColumnSpan="3">
+
+        </TextBox>
+
+
+        <Button Content="Open an xml file" Height="33" HorizontalAlignment="Left" Margin="12,3,0,0" Name="btnOpenxml" VerticalAlignment="Top" Width="101" Click="btnOpenxml_Click" Grid.ColumnSpan="2" />
+        <Button Content="search(搜索)" Height="34" HorizontalAlignment="Left" Margin="0,3,0,0" Name="btnxpathnavigator" VerticalAlignment="Top" Width="437" Click="btnxpathnavigator_Click" IsEnabled="False" Grid.Column="2" />
+        <Label Content="Results of the XPath Query:" Height="35" HorizontalAlignment="Left" Margin="12,435,0,0" Name="label1" VerticalAlignment="Top" Width="242" FontSize="18" Grid.ColumnSpan="3" />
+    </Grid>
+</UserControl>

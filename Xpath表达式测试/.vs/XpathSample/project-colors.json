@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a170c0a-dc7e-4e6f-962d-eda54777a98b": {
+      "ProjectGuid": "3a170c0a-dc7e-4e6f-962d-eda54777a98b",
+      "DisplayName": "XpathSample",
+      "ColorIndex": 0
+    },
+    "6c24ca63-bbf1-400b-a9c3-db17036a0b43": {
+      "ProjectGuid": "6c24ca63-bbf1-400b-a9c3-db17036a0b43",
+      "DisplayName": "XpathHelper",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
